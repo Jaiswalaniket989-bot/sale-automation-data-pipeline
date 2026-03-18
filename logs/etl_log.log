@@ -1,0 +1,32 @@
+2026-03-17 15:42:08,190 - INFO - ===== ETL Pipeline Started =====
+2026-03-17 15:42:10,604 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-17 17:15:10,204 - INFO - ===== ETL Pipeline Started =====
+2026-03-17 17:15:12,907 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 12:02:33,507 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 12:02:33,829 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 12:02:37,438 - INFO - Processing file: sales_data_100.csv
+2026-03-18 12:02:37,441 - INFO - Processing file: sales_data_100.csv
+2026-03-18 12:02:37,950 - INFO - No new rows to insert from sales_data_100.csv
+2026-03-18 12:02:37,954 - INFO - sales_data_100.csv moved to Processed folder
+2026-03-18 12:02:37,959 - INFO - No new rows to insert from sales_data_100.csv
+2026-03-18 12:02:37,968 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 12:02:37,987 - ERROR - Error processing sales_data_100.csv: [WinError 2] The system cannot find the file specified
+2026-03-18 12:02:37,987 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 19:14:33,594 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 19:14:35,524 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 19:24:33,950 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 19:24:35,511 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 19:34:34,211 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 19:34:35,767 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 19:44:33,283 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 19:44:34,802 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 19:54:33,087 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 19:54:34,471 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 20:04:34,868 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 20:04:36,296 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 20:14:33,896 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 20:14:35,287 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 20:24:33,910 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 20:24:35,324 - INFO - ===== ETL Pipeline Completed Successfully =====
+2026-03-18 20:34:34,250 - INFO - ===== ETL Pipeline Started =====
+2026-03-18 20:34:35,730 - INFO - ===== ETL Pipeline Completed Successfully =====
