@@ -83,8 +83,8 @@ CSV Files → Python ETL → PostgreSQL → Power BI Dashboard
 
 📸 Dashboard
 
-<img width="570" height="163" alt="Overview" src="https://github.com/user-attachments/assets/eb1b0ab3-743d-4ec3-b84b-1311d46b99f0" />
+<img width="600" height="400" alt="Overview" src="https://github.com/user-attachments/assets/227435a8-2000-4d65-82da-5508ba746d48" />
 
-<img width="270" height="163" alt="revenue trend" src="https://github.com/user-attachments/assets/166bbe56-4f48-4472-8e4a-140635cb265b" />
+<img width="600" height="400" alt="region analysis" src="https://github.com/user-attachments/assets/97a33836-6576-4f0f-886b-148b26c433e2" />
 
-<img width="270" height="163" alt="region analysis" src="https://github.com/user-attachments/assets/96e58fa4-8ed5-427c-abc8-279df2e7c367" />
+<img width="600" height="400" alt="revenue trend" src="https://github.com/user-attachments/assets/e1d527c5-bccb-48c7-9d0c-6863be3de6a0" />
